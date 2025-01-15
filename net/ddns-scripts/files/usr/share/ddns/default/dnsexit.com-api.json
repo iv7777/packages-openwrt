@@ -1,0 +1,6 @@
+{
+	"name": "dnsexit.com-api",
+	"ipv4": {
+		"url": "http://api.dnsexit.com/dns/ud/?apikey=[PASSWORD]&host=[DOMAIN]&ip=[IP]"
+	}
+}
